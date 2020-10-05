@@ -1,0 +1,48 @@
+.bg-green {
+  background: #00cc99;
+}
+
+.text-green {
+  color: #00cc99;
+}
+
+.text-gray {
+  color: #868e96;
+}
+
+code,
+.btn {
+  background: #f8f9fa;
+}
+
+.breadcrumb {
+  background-color: transparent;
+}
+
+ul {
+  line-height: 1.8;
+}
+
+.media img {
+  width: 64px;
+  height: 64px;
+}
+
+.media p {
+  font-size: 16px;
+}
+
+.media textarea {
+  resize: none;
+}
+
+.media .btn:hover {
+  background: #e2e6ea;
+}
+
+.fa-instagram:hover,
+.fa-facebook-square:hover,
+.fa-twitter-square:hover {
+  color: #24eb0a;
+}
+/*# sourceMappingURL=all.css.map */
